@@ -1,4 +1,6 @@
-![MNN](doc/banner.png)
+阿里巴巴开源自家轻量级的深度神经网络推理引擎MNN
+
+[MNN](doc/banner.png)
 
 [中文版本](README_CN.md)
 
